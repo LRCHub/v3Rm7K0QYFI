@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Tank-top of the world",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:16:04.656662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tank-top of the world",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_Tank-top_of_the_world_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tank-top Of The World",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": false,
+      "path": "select/02_Tank-top_Of_The_World_Yabai_T-Shirts_Yasan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tank-top of the world",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_Tank-top_of_the_world_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Tank-top of the world",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_Tank-top_of_the_world_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Tank-top of the world",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_Tank-top_of_the_world_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
